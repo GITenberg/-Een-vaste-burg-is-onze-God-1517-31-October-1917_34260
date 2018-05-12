@@ -1,0 +1,25 @@
+_repo: -Een-vaste-burg-is-onze-God-1517-31-October-1917_34260
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34260-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Heer, Betsy de
+    gutenberg_agent_id: '36908'
+    url: http://www.gutenberg.org/2009/agents/36908
+description: ''
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34260'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luther, Martin, 1483-1546'
+- !lcc 'BR'
+title: "'Een vaste burg is onze God'\r\nde kerkhervorming herdacht op haar vierde\
+  \ eeuwfeest, 1517—31 October—1917"
+url: http://www.gutenberg.org/ebooks/34260
