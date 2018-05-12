@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36908'
     url: http://www.gutenberg.org/2009/agents/36908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34260#-Een-vaste-burg-is-onze-God-1517-31-October-1917
 gutenberg_issued: '2010-11-09'
 gutenberg_type: Text
 identifiers:
